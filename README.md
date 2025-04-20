@@ -1,5 +1,6 @@
-MCP - Mercado Argentino con yFinance 📈🇦🇷
-Este proyecto implementa un Model Context Protocol (MCP) que actúa como un asistente especializado en el análisis del mercado bursátil argentino. Utiliza la librería yfinance para obtener datos en tiempo real y realizar cálculos financieros.
+MCP - Mercado Argentino con yFinance
+
+📈🇦🇷 Este proyecto implementa un Model Context Protocol (MCP) que actúa como un asistente especializado en el análisis del mercado bursátil argentino. Utiliza la librería yfinance para obtener datos en tiempo real y realizar cálculos financieros.
 
 🧠 ¿Qué hace este MCP?
 Consulta de precios históricos y actuales de acciones argentinas
