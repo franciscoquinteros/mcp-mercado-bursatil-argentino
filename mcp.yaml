@@ -1,0 +1,3 @@
+name: Mercado Bursátil Argentino Real
+entry_point: .venv\Scripts\python.exe main.py
+python: C:\Users\Fran\Desktop\Projects\MCP\mcp-demo\.venv\Scripts\python.exe
